@@ -17,4 +17,5 @@
 git remote add .../ git clone ...
 git push origin <branch-name>
 git pull origin <branch-name>
+7. pull request - на странице gitHub - кнопка Compare & pull request
 
